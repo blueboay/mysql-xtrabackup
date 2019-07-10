@@ -1,0 +1,2 @@
+# mysql-xtrabackup
+MySQL基于Xtrabackup增量备份Shell脚本，支持所有MySQL版本
